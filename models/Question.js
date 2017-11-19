@@ -17,7 +17,10 @@ class Question{
   constructor(content){
     this.content = content
   }
+  insert(){
 
+    
+  }
 }
 
 module.exports = Question;
